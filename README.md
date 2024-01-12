@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [printf](https://github.com/maramilod/printf)
 
-- 💬 Ask me about **C shell c++ js css html**
+- 💬 Ask me about **C shell c++ js css html Go**
 
 - 📫 How to reach me **marammilod03@gmail.com**
 
